@@ -1,6 +1,6 @@
 {
   "name": "lecturs-6",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "Lecture 6",
   "main": "index.js",
@@ -8,5 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Muhamad Kamran",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
 }
