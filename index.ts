@@ -21,5 +21,4 @@ console.log(a)
 
 // */
 
-let personName: string = `Muhamad kamran Ali rana`;
 
