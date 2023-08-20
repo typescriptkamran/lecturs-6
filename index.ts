@@ -1,9 +1,10 @@
 // Imoprt we always use on top
 
-import a, {b} from './first';
+import a, {b} from './first.js';
 
 // import multiple value in form of objects
-import {c, d, sum} from './second';
+import {c, d, sum} from './second.js';
+console.log("🚀 ~ file: index.ts:7 ~ c, d, sum:", c, d, sum)
 
 // install vs code exptntion turbo console log:
 // jsut select veriable and press ctrl+Alt+L to automatically console.log with complete port:

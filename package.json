@@ -1,5 +1,6 @@
 {
   "name": "lecturs-6",
+  "type":"module",
   "version": "1.0.0",
   "description": "Lecture 6",
   "main": "index.js",
