@@ -10,19 +10,7 @@ const first_1 = __importDefault(require("./first"));
 console.log("🚀 ~ file: index.ts:3 ~ a:", first_1.default);
 console.log(first_1.default);
 // Lecture 6
-To;
-put;
-Js;
-files in other;
-folder: 1.;
-change in tsconfig.json;
-file;
-line;
-58;
-define;
-where;
-to;
-safe.js;
-files
-    * /;
+// To put Js files in other folder:
+// 1. change in tsconfig.json file line 58 define where to safe .js files
+// */
 let personName = `Muhamad kamran Ali rana`;
