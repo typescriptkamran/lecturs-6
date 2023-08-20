@@ -11,3 +11,8 @@ console.log(a);
 // To put Js files in other folder:
 // 1. change in tsconfig.json file line 58 define where to safe .js files
 // */
+
+
+// Union Litrals
+
+// let myName: string | null | boolean = null
